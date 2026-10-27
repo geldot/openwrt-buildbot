@@ -1,4 +1,4 @@
-FROM        debian:11
+FROM        debian:12
 LABEL       maintainer="OpenWrt Maintainers"
 
 ARG         DEBIAN_FRONTEND=noninteractive
